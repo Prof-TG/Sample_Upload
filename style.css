@@ -1,0 +1,14 @@
+#outer_cover {
+    width: 80%;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+}
+
+#image {
+    display: inline-block;
+}
+
+#content {
+    display: inline-block;
+    color: #192F60;
+}
